@@ -142,3 +142,4 @@ void PrintArray(string[] array)
 
 скрины для подтверждения использования контроля версий
 
+![](screenshot.png)
